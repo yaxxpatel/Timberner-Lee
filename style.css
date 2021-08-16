@@ -111,4 +111,16 @@ p {
     z-index: 9;
     background: linear-gradient(#60ebeb 0%;#27ae60 100%);
 }
-
+a{
+    color: aqua;
+}
+#contact{
+    background-color: crimson;
+    
+}
+.contact_1 a{
+    color: dodgerblue;
+}
+.contact_1 h3{
+    display: inline;
+}
